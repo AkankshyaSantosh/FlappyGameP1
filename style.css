@@ -1,0 +1,33 @@
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    text-align: center;
+    background-image: url(https://cdn4.vectorstock.com/i/1000x1000/35/08/forest-and-hill-game-background-vector-12263508.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px 1000px;
+    color: whitesmoke;
+    
+}
+
+div{
+    width: 480px;
+    margin: 2% auto;
+}
+
+canvas{
+    background-color: white;
+    border: 1px solid black;
+}
+
+button{
+    width: 70px;
+    height: 25px;
+    border-radius: 6px;
+    border: none;
+    background-color: tomato;
+    color: whitesmoke;
+    font-weight: bold;
+    cursor: pointer;
+}
